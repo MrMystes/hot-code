@@ -1,8 +1,8 @@
 {
   "name": "blog",
   "ios_identifier": "",
-  "android_identifier": "",
+  "android_identifier": "io.cordova.hellocordova",
   "update": "resume",
   "content_url": "http://down.ayuki.ink",
-  "release": "2018.01.30-08.29.54"
+  "release": "2018.01.30-09.20.45"
 }
